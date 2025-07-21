@@ -15,6 +15,6 @@ public class Main {
             lottoNumbers.add(num);
         }
 
-        System.out.println("이번 주 로또 번호: " + lottoNumbers);
+        System.out.println("이번 주 로또" + lottoNumbers);
     }
 }
