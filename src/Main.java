@@ -24,5 +24,6 @@ public class Main {
                 System.out.println("j = " + j);
             }
         }
+        System.out.println("이번 주 로또" + lottoNumbers);
     }
 }
