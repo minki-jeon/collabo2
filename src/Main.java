@@ -15,6 +15,15 @@ public class Main {
             lottoNumbers.add(num);
         }
 
+        System.out.println("이번 주 로또 번호: " + lottoNumbers);
+
+        int i = 0;
+        while (i < 10) {
+            System.out.println("i = " + i);
+            for (int j = 0; j < 3; j++) {
+                System.out.println("j = " + j);
+            }
+        }
         System.out.println("이번 주 로또" + lottoNumbers);
     }
 }
